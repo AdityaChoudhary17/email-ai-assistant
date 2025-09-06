@@ -67,7 +67,7 @@ To test the Email AI Assistant, follow these steps:
 
 👤 Author
 --------
-The Email AI Assistant was developed by [Aditya Chaudhary], a passionate AI enthusiast and software developer.
+The Email AI Assistant was developed by Aditya Chaudhary, a passionate AI enthusiast and software developer.
 
 📝 License
 --------
